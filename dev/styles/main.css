@@ -1,8 +1,10 @@
 body {
-  background-color: #02b9b9;
-  font-family: Roboto, sans-serif;
-  color: #fff;
+    background-color: #02b9b9;
+    font-family: Roboto, sans-serif;
+    color: #fff;
 }
+
 h1 {
-  font-family: Lobster, cursive;
+    font-family: Lobster, cursive;
+    font-size: 3em;
 }
